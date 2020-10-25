@@ -9,17 +9,12 @@ const resumeData = {
     {
       "name": "linkedin",
       "url": "https://www.linkedin.com",
-      "className": "fa fa-linkedin"
+      "className": "fab fa-linkedin"
     },
     {
       "name": "github",
       "url": "https://www.github.com",
-      "className": "fa fa-github"
-    },
-    {
-      "name": "linkedin",
-      "url": "https://www.linkedin.com",
-      "className": "fa fa-linkedin"
+      "className": "fab fa-github"
     }
   ],
   "aboutme": "I'm an Air Force Veteran working on completing my B.S. in Computer Science and seeking a Software Engineer role",
